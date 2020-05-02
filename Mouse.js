@@ -1,6 +1,6 @@
-function Mouse() {
+function Mouse1() {
     console.log("mouse");
 
 }
 
-module.export = Mouse;
+module.export = Mouse1;
