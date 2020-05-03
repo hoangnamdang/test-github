@@ -1,5 +1,8 @@
-function Cat(){
-    console.log("ok");
+function Cat(){  
+    this.eat = []  
+}
+Cat.prototype.eat = function(){
+    console.log("eat Mouse");
     
 }
 
