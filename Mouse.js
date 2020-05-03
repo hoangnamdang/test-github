@@ -1,4 +1,4 @@
-function Mouse() {
+function Mouse1() {
     console.log("mouse");
 
 }
@@ -6,4 +6,4 @@ function eat(){
     console.log("eat");
 }
 
-module.export = Mouse;
+module.export = Mouse1;
